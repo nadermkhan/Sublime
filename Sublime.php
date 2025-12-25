@@ -4,6 +4,7 @@
  * https://github.com/nadermkhan/Sublime/
  * Developed by Nader Mahbub Khan
  * Initial release: December 25, 2025
+ * Version : 1.0
  */
 declare(strict_types=1);
 namespace Nader\Sublime;
